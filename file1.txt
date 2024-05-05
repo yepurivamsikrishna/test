@@ -1,2 +1,3 @@
 file1.txt
 Modified in dev
+Modified in origin/dev
